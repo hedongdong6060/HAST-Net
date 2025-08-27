@@ -1,0 +1,13 @@
+
+DATASET:
+  dataset: "DummyPolypDataset"
+  Low_mean: [0.5]
+  Low_std: [0.5]
+  High_mean: [0.5]
+  High_std: [0.5]
+  clip_len_pred: 8
+  stride_pred: 8
+  frames_per_video: 100 # Important for dummy dataset length estimation
+TRAIN:
+  num_workers: 0
+                
