@@ -3,4 +3,5 @@ HAST-Net: Hierarchical Adaptive Spatio-Temporal Network for Joint Segmentation A
 
 
 
-Code and data are being urgently prepared and will be uploaded shortly.
+1、Downloading necessary data:
+https://osf.io/zhy23/
