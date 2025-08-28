@@ -7,4 +7,4 @@ HAST-Net: Hierarchical Adaptive Spatio-Temporal Network for Joint Segmentation A
 https://osf.io/zhy23/
 
 
-2、Contact Information For further information or assistance, please contact the dataset maintainer at 23b928029@stu.hit.edu.cn.
+2、Contact Information For further information or assistance, please contact  23b928029@stu.hit.edu.cn.
